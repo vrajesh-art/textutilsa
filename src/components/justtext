@@ -1,0 +1,11 @@
+
+
+
+<Alert alert={alert}/>
+<Navbar  title="textutils" aboutText="about textutils" mode={mode} toggleMode={toggleMode}/>
+<div className="container my-3" mode={mode}>
+{/* container is the bootstrap class which will bring the textarea box in between */}
+{/* <TextForm showAlert={showAlert} heading="enter the text to analyze below" mode={mode}/> */}
+<About heading="about us" mode={mode}/>
+
+</div>
