@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textutilsa.git/static/css/main.073c9b0a.css",
+    "main.js": "/textutilsa.git/static/js/main.8c029331.js",
+    "static/js/787.40a36500.chunk.js": "/textutilsa.git/static/js/787.40a36500.chunk.js",
+    "index.html": "/textutilsa.git/index.html",
+    "main.073c9b0a.css.map": "/textutilsa.git/static/css/main.073c9b0a.css.map",
+    "main.8c029331.js.map": "/textutilsa.git/static/js/main.8c029331.js.map",
+    "787.40a36500.chunk.js.map": "/textutilsa.git/static/js/787.40a36500.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8c029331.js"
+  ]
+}
